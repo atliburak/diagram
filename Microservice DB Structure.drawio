@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2023-11-08T22:11:26.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="uQZWoVI8w2b9JxLAhjWq" version="21.7.1" type="device">
+  <diagram name="Sayfa -1" id="7Qrlh3qk-TFn3BPXQnNo">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-7" value="&lt;br&gt;&lt;br&gt;Salary&lt;br&gt;Service&lt;br&gt;DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-8" value="Master Node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="88" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-14" value="&lt;br&gt;&lt;br&gt;Organization&lt;br&gt;Service&lt;br&gt;DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="300" y="140" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-15" value="Slave Node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="88" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="440" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-17" value="&lt;br&gt;&lt;br&gt;Salary&lt;br&gt;Service&lt;br&gt;DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="140" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-18" value="Slave Node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="88" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-20" value="&lt;br&gt;&lt;br&gt;Organization&lt;br&gt;Service&lt;br&gt;DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="620" y="140" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-21" value="Master Node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="88" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=south;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="600" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-26" value="Database Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qYvEFQuajE8P7xcdsZjd-42" target="qYvEFQuajE8P7xcdsZjd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qYvEFQuajE8P7xcdsZjd-42" target="qYvEFQuajE8P7xcdsZjd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-42" value="Salary Business Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qYvEFQuajE8P7xcdsZjd-43" target="qYvEFQuajE8P7xcdsZjd-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qYvEFQuajE8P7xcdsZjd-43" target="qYvEFQuajE8P7xcdsZjd-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-43" value="Organization Business Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-50" value="R/W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-51" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-55" value="R/W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-56" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-58" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Master Node;&lt;/b&gt;&amp;nbsp;Yazma ve Okuma yetkisi bulunan node&#39;lardır.&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Slave Node&lt;/b&gt;; Okuma yetkisi bulunan node&#39;lardır.&lt;/li&gt;&lt;li&gt;Eğer veritabanına bir kayıt eklemek isteniliyorsa master node üzerinden yapılır. Devamında slave node bu bilgiyi master node’dan alır ve kaydeder.&lt;/li&gt;&lt;li&gt;Node’ların iletişimini ve yönetimini cluster yönetim yazılımları yapmaktadır.(AWS DMS)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="600" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qYvEFQuajE8P7xcdsZjd-59" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Golden Rule : &lt;/b&gt;Mater Node&#39;a erişim(Yazma yetkisi) sadece ilişkili olan microservice&#39;e verilir.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="120" y="580" width="600" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
